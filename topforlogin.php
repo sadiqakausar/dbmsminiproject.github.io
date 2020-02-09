@@ -5,13 +5,7 @@
 						<div class="logo">
 						<a href="#"><img src="../images/" id="section-1" class="img-responsive" alt=""/></a>
 						</div>
-						<div class="menu">
-						<ul id="nav">
-							 <li><a href="../index.php" target="_blank">Preview Website</a></li>
-							 <li><a href="logout.php">Log Out</a></li>
-						     <div class="clearfix"></div>
-						 </ul>
-						 </div>
+						
 			 </div>
 			  <div class="clearfix"> </div>
 			
